@@ -12,7 +12,11 @@ Klinik Digital adalah aplikasi manajemen klinik sederhana yang membantu pasien m
 
 | Login Screen | Home Screen | Feature Screen |
 |:---:|:---:|:---:|
-| ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/home.png) | ![Feature](assets/screenshots/feature.png) |
+| ![Login](<img width="738" height="1600" alt="WhatsApp Image 2026-07-28 at 21 19 10" src="https://github.com/user-attachments/assets/664cf240-9380-4c20-8ddb-e4ef0470817c" />
+) | ![Home](
+<img width="738" height="1600" alt="WhatsApp Image 2026-07-28 at 21 19 10 (1)" src="https://github.com/user-attachments/assets/4ff4ab0f-ec0a-4143-a0dd-e31fa0db04d1" />
+ | ![Feature](<img width="738" height="1600" alt="WhatsApp Image 2026-07-28 at 21 19 10 (2)" src="https://github.com/user-attachments/assets/43a5534c-f32d-43e3-8b65-758616ff6718" />
+) |
 
 ---
 
