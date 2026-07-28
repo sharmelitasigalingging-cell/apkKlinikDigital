@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Klinik Digital",
+    "slug": "klinik-digital-uas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F766E"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.uprima.klinikdigital"
+    },
+    "android": {
+      "package": "com.uprima.klinikdigital",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0F766E"
+      },
+      "permissions": ["CAMERA"]
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "Aplikasi membutuhkan akses kamera untuk memfoto KTP kamu."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "GANTI_DENGAN_PROJECT_ID_KAMU"
+      }
+    }
+  }
+}
